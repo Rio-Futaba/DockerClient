@@ -3,4 +3,4 @@ project(DockerClient)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_library(DockerClient SHARED DockerClient.cpp DockerClient.h)
+add_library(DockerClient SHARED DockerClient.cpp DockerClient.h Container.cpp Container.h)

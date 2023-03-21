@@ -1,0 +1,3 @@
+[submodule "third_part/jsonxx"]
+	path = third_part/jsonxx
+	url = https://github.com/hjiang/jsonxx.git
